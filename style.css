@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-color: blanchedalmond;
+    color: chocolate;
+}
+h4{
+    text-align: center;
+    background-color: blanchedalmond;
+    color: chocolate;
+}
+table,caption,th,td{
+    
+    text-align: center;
+    border: 1px solid plum;
+    background-color: bisque ;
+    border-collapse: separate;
+    padding: 15px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    color: chocolate;
+}
+
